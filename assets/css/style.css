@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 nav h2 {
     /* padding: 20px; */
     background-color: rgb(245, 200, 192);
@@ -5,20 +9,35 @@ nav h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     height: 100%;
-    margin-left: 90px;
+    margin-left: 20px;
     margin-top: -36px;
     height: 72px;
     padding: 13px;
     position: absolute !important;
 }
 
-.nav.navbar { 
-    color: purple !important;
+.navbar {
+    background-color: lightblue !important;
+}
+
+.nav-link {
+    color: white !important;
+   
+}
+
+.nav-item {
+    /* margin-top: 30px; */
 }
 
 hr {
     background-color: red;
 }
+
+.display-5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
 img {
     float: left;
     height: 200px;
@@ -34,7 +53,8 @@ footer {
     text-align: center;
     width: 100%;
     background-color: gray;
-    height: 60px;
+    height: 70px;
+    border-top: 6px solid #4aaaa5;
 }
 
 footer section {
@@ -44,6 +64,7 @@ footer section {
 .jumbotron {
     background-color: blue !important;
     margin-top: 30px;
+    margin-left: 30px;
     color: white;
 }
 
