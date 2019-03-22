@@ -1,10 +1,23 @@
-nav h1 {
+nav h2 {
     /* padding: 20px; */
-    background-color: blue;
+    background-color: rgb(245, 200, 192);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
     height: 100%;
+    margin-left: 90px;
+    margin-top: -36px;
+    height: 72px;
+    padding: 13px;
+    position: absolute !important;
 }
+
+.nav.navbar { 
+    color: purple !important;
+}
+
 hr {
-    background-color: white;
+    background-color: red;
 }
 img {
     float: left;
@@ -20,7 +33,7 @@ footer {
     position: fixed;
     text-align: center;
     width: 100%;
-    background-color: red;
+    background-color: gray;
     height: 60px;
 }
 
