@@ -1,0 +1,39 @@
+nav h1 {
+    /* padding: 20px; */
+    background-color: blue;
+    height: 100%;
+}
+hr {
+    background-color: white;
+}
+img {
+    float: left;
+    height: 200px;
+}
+
+p {
+    margin-left: 220px;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: red;
+    height: 60px;
+}
+
+footer section {
+    margin-top: 35px;
+}
+
+.jumbotron {
+    background-color: blue !important;
+    margin-top: 30px;
+    color: white;
+}
+
+.display-5 {
+    margin-top: -45px;
+}
