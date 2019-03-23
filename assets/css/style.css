@@ -78,12 +78,12 @@ footer section {
     background-color: blue;
     color: white;
     margin-top: 30px;
-    width: 800px;
-    height: 500px;
+    /* width: 800px;
+    height: 500px; */
    
 }
 
-.portPics {
+.picsBanner {
     position: absolute;
     background-color: rgba(84, 74, 230, 0.39);
     text-align: center;
@@ -127,4 +127,8 @@ form {
 
 .btn {
     pa-bottom: 30px;
+}
+
+.portPics {
+    margin: 3px;
 }
