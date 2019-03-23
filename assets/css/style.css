@@ -77,4 +77,17 @@ footer section {
     background-color: blue;
     color: white;
     margin-top: 30px;
+    width: 800px;
+    height: 500px;
+   
+}
+
+h5 {
+    position: absolute;
+    background-color: rgba(84, 74, 230, 0.39);
+    text-align: center;
+}
+
+row {
+    padding: 120px;
 }
