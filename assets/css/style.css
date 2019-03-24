@@ -36,6 +36,8 @@ hr {
 .display-5 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
+    padding: 15px 0px 10px 0px;
+    margin-top: -45px !important;
 }
 
 img {
@@ -69,9 +71,9 @@ footer section {
     color: white;
 }
 
-.display-5 {
-    margin-top: -45px;
-}
+/* .display-5 {
+    margin-top: -45px !important;
+} */
 
 .container {
     background-color: blue;
