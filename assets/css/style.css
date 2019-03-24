@@ -23,7 +23,6 @@ nav h2 {
 
 .nav-link {
     color: white !important;
-   
 }
 
 .nav-item {
@@ -78,9 +77,9 @@ footer section {
     background-color: blue;
     color: white;
     margin-top: 30px;
+    padding-bottom: 50px;
     /* width: 800px;
     height: 500px; */
-   
 }
 
 .picsBanner {
@@ -88,15 +87,18 @@ footer section {
     background-color: rgba(84, 74, 230, 0.39);
     text-align: center;
     bottom: 1em;
-    /* width: ; */
-    padding: .3em 1.5em;
-    margin: 0;
+    /* padding: .3em 1.5em;  */
+    padding: 05px 20px;
+    margin: 10px;
+    margin-left: 5px;
+    width: 200px;
+    resize: vertical;
 }
-
 
 row {
     padding: 120px;
 }
+
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
@@ -111,8 +113,8 @@ form {
 
 .col-10 {
     background-color: blue;
-    height: 470px;
-    padding: 20px;
+    /* height: 470px; */
+    /* padding: 20px; */
     color: white;
 }
 
@@ -123,12 +125,10 @@ form {
 #submitButton {
     background-color: rgb(245, 200, 192);
     color: black;
-}
-
-.btn {
-    pa-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .portPics {
-    margin: 3px;
+    margin: 5px;
+    /* padding: 10px 10px 10px 20px; */
 }
